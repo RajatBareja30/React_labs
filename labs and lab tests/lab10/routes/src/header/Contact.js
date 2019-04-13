@@ -1,0 +1,14 @@
+import React from 'react'
+
+class Contact extends React.Component {
+    state = {  }
+    render() { 
+        return ( 
+            <div>
+                <p>Contact</p>
+            </div>
+         );
+    }
+}
+ 
+export default Contact;
